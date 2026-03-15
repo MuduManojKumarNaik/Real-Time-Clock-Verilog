@@ -41,7 +41,7 @@ The system is simulated using **Xilinx Vivado** to verify correct time progressi
 The simulation waveform verifies the correct operation of the RTC design.
 It shows the **clock signal, reset behavior, and sequential increment of seconds, minutes, and hours counters**.
 
-![RTC Waveform](image.png)
+![RTC Waveform](rtc_simulation_waveform.png)
 
 ---
 
